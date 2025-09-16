@@ -65,4 +65,3 @@ function updatePaletteDisplay(colors) {
     hexValue.textContent = color;
   });
 }
-generatePalette();
